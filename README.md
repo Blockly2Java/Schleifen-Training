@@ -18,23 +18,13 @@ Detailed exercise instructions can be found in the README file of the template r
 
 Auto-updated by CI from latest test runs.
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Last Updated: 20. Apr 2026 13:07:09 [CEST]</sub>
+> <sub>Last Updated: 5. Jun 2026 21:04:06 [CEST]</sub>
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Commit: 99d0cf5b8c15d9ee39fbaca81d951d646f86eaf0</sub>
+> <sub>Commit: 20540a9ababaabfcdbd81fb5bab39f7043e88708</sub>
 
 Legend: ✅ passed, ❌ failed/error, ⏭️ skipped, — not present.
 
 | Test Case | Solution | Template |
 | --- | --- | --- |
-| test.TestManager.Aufgabe1_Inhalt | ✅ | — |
-| test.TestManager.Aufgabe1_ZeilenAnzahl | ✅ | — |
-| test.TestManager.Aufgabe2_Inhalt | ✅ | — |
-| test.TestManager.Aufgabe2_ZeilenAnzahl | ✅ | — |
-| test.TestManager.Aufgabe3_Inhalt | ✅ | — |
-| test.TestManager.Aufgabe3_ZeilenAnzahl | ✅ | — |
-| test.TestManager.Aufgabe4_Inhalt | ✅ | — |
-| test.TestManager.Aufgabe4_ZeilenAnzahl | ✅ | — |
-| test.TestManager.Aufgabe5_Inhalt | ✅ | — |
-| test.TestManager.Aufgabe5_ZeilenAnzahl | ✅ | — |
-| test.TestManager.strukturTests | ✅ | — |
+| (no test results found) | — | — |
 <!-- TEST_OVERVIEW_END -->
